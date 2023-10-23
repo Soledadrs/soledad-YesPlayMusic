@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://ncmusicapi.cares.eu.org/:match*"
+    }
+  ]
+}
